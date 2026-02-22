@@ -20,3 +20,7 @@ This project focuses on designing a normalized relational database schema and wr
 ## PDF version of the assignment is available in:
 
 📁 src/pdf
+
+## Reach Out
+
+Feel free to reach out [Lokesh Sai](https://lokesh-sai-polishetty.vercel.app/).
